@@ -9,7 +9,6 @@
 - Open Images v6: https://storage.googleapis.com/openimages/web/index.html
 
 ### Tools/Framework Used
-- To manually label images: LabelImg (http://tzutalin.github.io/labelImg/)
 - ML model: Detectron2 Model (https://github.com/facebookresearch/detectron2)
 - Evaluation of ML models & Experiment Tracking: Weights and Biases (https://github.com/Cartucho/mAP)
 - Web Application: Streamlit (https://www.streamlit.io/)
